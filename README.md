@@ -22,5 +22,5 @@ To run this program, follow these steps:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/RajatSinghal123/201257_ProjectAmdocs.git
-   cd 201257_ProjectAmdocs
+   git clone https://github.com/RajatSinghal123/201257_AmdocsProject.git
+   cd 201257_AmdocsProject
